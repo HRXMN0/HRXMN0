@@ -35,7 +35,7 @@ An educational platform focused on technology and learning.
 - Building educational technology solutions.
 - Focused on creating useful digital learning experiences.
 
-🔗 [GitHub Repository](YOUR_PROGRAMO_REPOSITORY_URL)
+🔗 [GitHub Repository](https://github.com/HRXMN0/Programo-Academia)
 
 ### 2. LearnSphere
 
