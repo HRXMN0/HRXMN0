@@ -92,12 +92,10 @@ A blood inventory management and emergency coordination platform.
 
 ## 📊 GitHub Statistics
 
-
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=HRXMN0&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="Harmanpreet's GitHub Activity Graph"
+    src="https://streak-stats.demolab.com?user=HRXMN0&theme=tokyonight&hide_border=true"
+    alt="Harmanpreet's GitHub Streak"
   />
 </p>
 
